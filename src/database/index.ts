@@ -1,7 +1,7 @@
 import * as FileSystem from "fs";
 import { DatabaseType } from "./types";
 
-const databaseFileName = "/tmp/database.json";
+const databaseFileName = "/static/microservices_ts_database.json";
 
 function CreateDatabase(database = {}) {
   return new Promise(function(resolve, reject) {
