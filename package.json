@@ -1,6 +1,6 @@
 {
-  "name": "MicroServicesTS",
-  "version": "0.1.0",
+  "name": "MicroservicesTS",
+  "version": "0.2.0",
   "main": "dist/index.js",
   "dependencies": {
     "express": "^4.15.2",
