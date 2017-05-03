@@ -4,8 +4,11 @@ This has no use case at the moment, but perhaps in the future could be used for 
 #### Setup
 `npm install`
 
-#### Run production build
+#### Build for production
+`npm build`
+
+#### Run for production
 `npm start`
 
-#### Run development build
+#### Build and for development
 `npm run dev`
