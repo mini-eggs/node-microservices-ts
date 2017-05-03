@@ -1,9 +1,9 @@
 {
-  "name": "MicroservicesTS",
+  "name": "node-microservices-ts",
   "version": "0.2.0",
   "main": "dist/index.js",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.15.2"
   },
   "devDependencies": {
     "@types/express": "^4.0.35",
