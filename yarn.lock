@@ -1513,7 +1513,7 @@ request@2.81.0, request@^2.81.0:
     tunnel-agent "^0.6.0"
     uuid "^3.0.0"
 
-"resolve@github:igorklopov/node-resolve#b443b80eaee4597a80d3c03cda15e539963001d4":
+resolve@igorklopov/node-resolve#b443b80eaee4597a80d3c03cda15e539963001d4:
   version "1.1.7"
   resolved "https://codeload.github.com/igorklopov/node-resolve/tar.gz/b443b80eaee4597a80d3c03cda15e539963001d4"
 

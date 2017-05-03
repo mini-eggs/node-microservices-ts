@@ -15,8 +15,7 @@
     "typescript": "^2.3.2"
   },
   "scripts": {
-    "build": "rm -rf pkg && tsc -p tsconfig.json && pkg dist/index.js --output pkg/server && rm -rf dist",
-    "start": "./pkg/server",
+    "build": "rm -rf pkg && tsc -p tsconfig.json && pkg dist/index.js --targets freebsd,linux,macos,win --out-dir pkg && rm -rf dist",
     "dev": "concurrently --kill-others \"tsc -w -p tsconfig.json\" \"nodemon dist/\""
   }
 }

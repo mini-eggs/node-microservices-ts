@@ -2,13 +2,10 @@
 This has no use case at the moment, but perhaps in the future could be used for small microservice-able tasks.
 
 #### Setup
-`npm install`
+`npm install` or `yarn`
 
-#### Build for production
-`npm build`
+#### Build cross-compilation production files
+`npm build` or `yarn build`
 
-#### Run for production
-`npm start`
-
-#### Build and for development
-`npm run dev`
+#### Build and run for development
+`npm run dev` or `yarn dev`
